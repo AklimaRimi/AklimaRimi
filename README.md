@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AklimaRimi
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning Machine LEarning,Deep Learning
+- 🌱 I’m currently learning Machine Learning,Deep Learning
 - 💞️ I’m looking to collaborate with anyone on any subject 
 - 📫 How to reach me -> FaceBook : Aklima Akter Rimi 
 
