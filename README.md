@@ -19,6 +19,7 @@ Hi this is Rimi. A Data Detective. Thank You for visiting me
 ![](https://github-contributor-stats.vercel.app/api?username=AklimaRimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AklimaRimi&icon=10&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=AklimaRimi&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
