@@ -56,14 +56,6 @@ I'm a **Data Scientist** (or **Data Detective**) passionate about finding insigh
 
 ---
 
-## 🌍 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?logo=githubpages&logoColor=white)](https://aklima-rimi-portfolio.com)
-
----
-
 Feel free to explore my projects and connect with me! Together, let's uncover insights from data 🔍.
 
 
