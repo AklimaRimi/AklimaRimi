@@ -29,8 +29,7 @@ I'm a **Data Scientist** (or **Data Detective**) passionate about finding insigh
 ### Frameworks & Backend Tools:
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![.NET MVC](https://img.shields.io/badge/-.NET_MVC-512BD4?logo=dotnet&logoColor=white)
+
 
 ### Version Control:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -42,7 +41,7 @@ I'm a **Data Scientist** (or **Data Detective**) passionate about finding insigh
 
 - 🌐 [Portfolio](https://github.com/AklimaRimi)
 - 🔄 Always learning and improving.
-- ☁️ Currently exploring **Django** and **C# MVC**.
+- ☁️ Currently exploring **Django**.
 - 💡 Interested in data visualization and storytelling.
 
 
